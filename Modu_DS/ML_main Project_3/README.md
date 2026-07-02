@@ -2,7 +2,9 @@
 
 이 프로젝트는 **신용카드 거래 데이터를 분석하여 사기 거래를 탐지**하는 머신러닝 분류 모델을 구축하는 것입니다.  
 데이터는 익명화된 실제 거래 데이터이며, 타겟 변수인 `Class`는 이진 분류 문제입니다.  
-
+    
+## 데이터 다운로드
+https://www.kaggle.com/competitions/modu-ds-4-credit-card-fraud-detection/data
 ---
 
 ## 데이터 설명
